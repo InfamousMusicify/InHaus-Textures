@@ -16,13 +16,13 @@
 ### [🔗Random Login Effects🔗](https://github.com/InfamousMusicify/RLFX/) 
 ### [🔗BlockMart🔗](https://github.com/InfamousMusicify/BlockMart/) 
 
-If you're here I assume you've got one or more of the packs,  
-Thanks for checking them out!  
-
 ### [Donations appreciated:🔗](https://www.patreon.com/InfamousMusicify) 
 __All of my projects take an inordinant amount of time to upkeep/create.  
 I use my free time to make them.  Any support would be much appreciated!  
 If you enjoy these packs and want to see more like them and see them maintained, [send me some love](https://www.patreon.com/InfamousMusicify)!__  
+
+If you're here I assume you've got one or more of the packs,  
+Thanks for checking them out!  
 
 Cheers  
 -Infamous  
