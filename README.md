@@ -1,7 +1,9 @@
 # [InHaus Master Textures](https://github.com/InfamousMusicify/InHaus-Master/archive/refs/heads/master.zip)  
 ### InHaus Master Textures - Minecraft: Java Edition - Resource Pack
 
-## Textures for my datapacks:
+## This repository contains textures for the below datapacks, thank you for using the packs!   
+If your here I assume you are looking for the textures to my datapacks.    
+if not, what are you doing here?  get some of my datapacks...!   
 
 ### [🔗Flying Raijin: Level 2🔗](https://github.com/InfamousMusicify/Flying-Raijin/)   
 ### [🔗Mark/Recall🔗](https://github.com/InfamousMusicify/Mark-Recall/)  
