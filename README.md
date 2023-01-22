@@ -5,6 +5,7 @@
 
 ### [🔗Flying Raijin: Level 2🔗](https://github.com/InfamousMusicify/Flying-Raijin/)   
 ### [🔗Mark/Recall🔗](https://github.com/InfamousMusicify/Mark-Recall/)  
+### [🔗Blink🔗](https://github.com/InfamousMusicify/Blink/)  
 ### [🔗Thermodynamic🔗](https://github.com/InfamousMusicify/Thermodynamic/)  
 ### [🔗Chains+🔗](https://github.com/InfamousMusicify/Chains-Plus/)  
 
