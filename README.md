@@ -11,7 +11,9 @@ if not, what are you doing here?  get some of my datapacks...!
 ### [🔗Thermodynamic🔗](https://github.com/InfamousMusicify/Thermodynamic/)  
 ### [🔗Chains+🔗](https://github.com/InfamousMusicify/Chains-Plus/)  
 
-# [How to Install Resource Packs](https://youtu.be/gxeGCGpJq7A)   
+### [How to Install Resource Packs](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack)   
+
+# [🔗Downloads🔗](https://github.com/InfamousMusicify/InHaus-Textures/blob/master/Downloads.md)
 
 ### Other packs I make:
 ### [🔗Message of The Day🔗](https://github.com/InfamousMusicify/MOTD/)  
