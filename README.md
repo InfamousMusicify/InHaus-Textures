@@ -1,4 +1,4 @@
-# [InHaus Master Textures](https://github.com/InfamousMusicify/InHaus-Master/archive/refs/heads/master.zip)  
+# [InHaus Master Textures](https://github.com/InfamousMusicify/InHaus-Textures/blob/master/Downloads.md)  
 ### InHaus Master Textures - Minecraft: Java Edition - Resource Pack
 
 ## This repository contains textures for the below datapacks, thank you for using the packs!   
